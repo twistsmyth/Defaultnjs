@@ -1,3 +1,3 @@
-# GhostScroll
-All you need is here:
-http://ghostscroll.grmmph.com
+# DefaultNJS
+
+Basic starter template for a nodejs website using platform ghost
